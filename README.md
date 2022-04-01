@@ -53,6 +53,11 @@ plt.show()
 ```
 
 ## Output:
+OUTPUT1:![image](https://user-images.githubusercontent.com/94165326/161304127-515072eb-a1d8-4526-995f-e72fa329d041.png)
+OUTPUT2:![image](https://user-images.githubusercontent.com/94165326/161304211-ef4278a8-0d76-476f-bb93-3aa62a7822fd.png)
+OUTPUT3:![image](https://user-images.githubusercontent.com/94165326/161304303-3cfc900a-3d89-4e09-827e-e9ab5229fe8d.png)
+OUTPUT4:![image](https://user-images.githubusercontent.com/94165326/161304359-2621c83e-5c6a-47b3-842d-3e1b342cfd41.png)
+
 
 
 
