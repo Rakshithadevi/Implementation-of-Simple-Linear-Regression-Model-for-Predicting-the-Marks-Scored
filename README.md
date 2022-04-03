@@ -58,6 +58,7 @@ plt.show()
 
 ## Output:
 ![output](./ml-2.png)
+
 ![output](./ml-2nd.png)
 
 
